@@ -5,9 +5,9 @@ var corsMiddleware = require('restify-cors-middleware');
 
 function subscribe(req, res, next) {
   var email = req.body.email;
-  var dataCenter = '';
-  var apiKey = '';
-  var listID = '';
+  var dataCenter = 'us4';
+  var apiKey = '16cb42d96f96a24afb6d9c2b7da1d913-us4';
+  var listID = '06544dc135';
   //Request settings
   var options = {
     url: `https://${dataCenter}.api.mailchimp.com/3.0/lists/${listID}/members`,
