@@ -9,7 +9,9 @@ class Home extends Component {
 			<div className={classes.Home}>
 				<div className={classes.LeftCol}>
 					<h1>
+					<brand>
 						Future Vision: <span>We Scale Impactful Ideas & Ventures Worldwide</span>
+					</brand>
 					</h1>
 					<h3>
 						WE ARE A GLOBAL NETWORK FOR BUSINESS LEADERS, DATA SCIENTISTS & SOFTWARE ENGINEERS.

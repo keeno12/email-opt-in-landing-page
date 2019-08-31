@@ -34,7 +34,14 @@
 
 .Home span {
 	font-weight: 600;
-	color: #005ab6;
+	color: #e1a600;
+}
+.Home brand {
+	font-size: 41px;
+	font-weight: 200;
+	margin: 15px 0px;
+	font-weight: 600;
+	color: #000000;
 }
 
 .LeftCol {

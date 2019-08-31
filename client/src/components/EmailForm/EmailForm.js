@@ -74,7 +74,7 @@ class EmailForm extends Component {
 					type="email"
 					name="EMAIL"
 					id="MERGE0"
-					placeholder="Enter your email"
+					placeholder="Enter your email to join the network"
 					value={this.state.email}
 					onChange={e => {
 						this.setState({ email: e.target.value });

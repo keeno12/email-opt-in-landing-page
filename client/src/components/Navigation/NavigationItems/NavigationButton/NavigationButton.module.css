@@ -1,5 +1,5 @@
 .Button {
-	background-color: #5c6ac4;
+	background-color: #e1a600;
 	text-decoration: none;
 	color: rgb(197, 100, 100);
 	border-radius: 5px;
@@ -13,7 +13,7 @@
 }
 
 .Button:hover {
-	background-color: #3e56a5;
+	background-color: #e1a600;
 }
 
 @media (min-width: 1120px) {

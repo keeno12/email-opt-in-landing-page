@@ -6,7 +6,7 @@
 .EmailForm input {
 	height: 60px;
 	padding: 0 0 0 1.5rem;
-	border: 2px solid #189bef;
+	border: 2px solid #000000;
 	background-color: #fff;
 	border-radius: 100px 0px 0px 100px;
 	display: -webkit-box;
@@ -18,11 +18,11 @@
 
 .EmailForm button {
 	color: #fff;
-	background-color: #189bf1;
+	background-color: #000000;
 	border-radius: 0 100px 100px 0;
 	padding: 15px 25px;
 	font-size: 18px;
-	border: 2px solid #189bef;
+	border: 2px solid #000000;
 	outline: none;
 }
 
