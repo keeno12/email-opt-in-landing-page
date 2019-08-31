@@ -14,8 +14,13 @@ const navigationItems = props => (
 		</NavigationItem>
 		{/* <NavigationItemDropDown>Get in touch</NavigationItemDropDown> */}
 		<NavigationItem clicked={props.clicked}>
-			<a href="https://github.com/seancheno/dna-splash-client" className={classes.NavigationItems}>
-				Github
+			<a href="http://2020futurevision.com" className={classes.NavigationItems}>
+				San Francisco
+			</a>
+		</NavigationItem>
+		<NavigationItem clicked={props.clicked}>
+			<a href="https://davos-apartments.com" className={classes.NavigationItems}>
+				Davos
 			</a>
 		</NavigationItem>
 	</ul>
