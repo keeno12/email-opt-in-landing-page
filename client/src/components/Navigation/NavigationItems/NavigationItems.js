@@ -8,7 +8,7 @@ import NavigationItemDropDown from "./NavigationItemDropDown/NavigationItemDropD
 const navigationItems = props => (
 	<ul className={classes.NavigationItems}>
 		<NavigationItem clicked={props.clicked}>
-			<NavLink to="/about" exact activeClassName={classes.Active}>
+			<NavLink to="/about-us" exact activeClassName={classes.Active}>
 				About
 			</NavLink>
 		</NavigationItem>

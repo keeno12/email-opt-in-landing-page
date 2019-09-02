@@ -1,42 +1,42 @@
-.Home {
+.About {
 	width: 100%;
 	height: 100vh;
 	display: flex;
 }
 
 @media only screen and (max-width: 840px) {
-	.Home {
+	.About {
 		flex-direction: column;
 	}
   }
 
-.Home div {
+.About div {
 	flex: 1;
 }
 
-.Home h1 {
+.About h1 {
 	font-size: 41px;
 	font-weight: 200;
 	margin: 15px 0px;
 }
 
-.Home h2 {
+.About h2 {
 	font-size:29px;
 	margin: 0px;
 	color: #005ab6;
 }
 
-.Home h3 {
+.About h3 {
 	font-weight: 100;
 	font-size: 21px;
 	margin: 7px 0px;
 }
 
-.Home span {
+.About span {
 	font-weight: 600;
 	color: #e1a600;
 }
-.Home brand {
+.About brand {
 	font-size: 41px;
 	font-weight: 200;
 	margin: 15px 0px;

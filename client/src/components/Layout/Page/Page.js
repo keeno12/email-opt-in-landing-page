@@ -15,7 +15,7 @@ class Page extends Component {
 				<div style={{marginBottom: '65px'}}/>
 				<Route exact path="/" component={Home} />
 				<Route exact path="/thank-you" component={ThankYou} />
-				<Route exact path="/about" component={About} />
+				<Route exact path="/about-us" component={About} />
 			</div>
 		);
 	}
