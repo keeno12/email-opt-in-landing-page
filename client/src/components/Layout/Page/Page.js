@@ -6,6 +6,7 @@ import { withRouter } from "react-router-dom";
 
 import Home from "../../Home/Home";
 import ThankYou from "../../ThankYou/ThankYou";
+import About from "../../About/About";
 
 class Page extends Component {
 	render() {
@@ -14,6 +15,7 @@ class Page extends Component {
 				<div style={{marginBottom: '65px'}}/>
 				<Route exact path="/" component={Home} />
 				<Route exact path="/thank-you" component={ThankYou} />
+				<Route exact path="/about" component={About} />
 			</div>
 		);
 	}
