@@ -44,7 +44,7 @@
 	color: #000000;
 }
 
-.LeftCol {
+.RightCol {
 	padding: 130px 3% 0% 3%;
 }
 
@@ -54,8 +54,8 @@
 	}
   }
 
-.RightCol {
+.LeftCol {
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url("https://i.ibb.co/XbjSKgK/spacex-PIOgkha-F3-WA-unsplash.jpg");
+	background-image: url("https://i.ibb.co/XynQH9n/benjamin-voros-ph-IFd-C6l-A4-E-unsplash.jpg");
 }
